@@ -27,11 +27,13 @@ body {
     top: 50px;
     min-height: 80vh;
     max-height: 90vh;
+    max-width: 100%; /* Ограничение по ширине */
+    height: auto; /* Пропорциональность */
 }
 
 @media (max-width: 768px) {
     .pic {
-        min-height: 40vh;
-        max-height: 50vh;
+        width: 100%; /* Полная ширина без растяжения */
+        max-height: 90vh; /* Максимальная высота для предотвращения скролла */
     }
 }
