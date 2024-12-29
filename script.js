@@ -1,6 +1,6 @@
 const images = [
     'img/IMG_3533.PNG',
-    'img/IMG_3693.PNG',
+    'img/IMG_3693.JPG',
     'img/IMG_3694.PNG',
     'img/IMG_3695.PNG',
     'img/IMG_3693.PNG',
@@ -17,7 +17,7 @@ const images = [
     'img/IMG_3706.PNG',
     'img/IMG_3708.PNG',
     'img/IMG_3709.PNG',
-    'img/IMG_3710.PNG',
+    'img/IMG_3710.JPG',
     'img/IMG_6858.PNG',
     'img/IMG_7720.PNG'
 ];
