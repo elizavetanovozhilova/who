@@ -25,5 +25,12 @@ body {
     visibility: hidden;
     position: absolute;
     top: 50px;
-    width: 80%;
+    min-height: 80vh;
+    max-height: 90vh;
+}
+
+@media (max-width: 768px) {
+    .pic {
+        height: 50%;
+    }
 }
