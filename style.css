@@ -1,0 +1,30 @@
+body {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    font-size: 50px;
+    background-color: azure;
+}
+
+.main_title {
+    color: palevioletred; 
+}
+
+.who {
+    background-color: palevioletred;
+    font-size: 1em;
+    color: pink;
+    border: 0;
+    border-radius: 0.4em;
+    font-weight: 600;
+}
+
+.pic {
+    visibility: hidden;
+    position: absolute;
+    top: 50px;
+    max-width: 800px;
+    min-width: 700px;
+}
