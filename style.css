@@ -31,7 +31,7 @@ body {
 
 @media (max-width: 768px) {
     .pic {
-        width: 80vw;
-        height: auto;
+        min-height: 40vh;
+        max-height: 50vh;
     }
 }
