@@ -28,7 +28,7 @@ body {
     min-height: 80vh;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 1126px) {
     .pic {
         min-height: 40vh;
         max-height: 50vh;
